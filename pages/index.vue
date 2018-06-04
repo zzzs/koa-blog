@@ -3,7 +3,7 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        koa-blog
+        koa2-blog
       </h1>
       <h2 class="subtitle">
         a koa blog of xl
